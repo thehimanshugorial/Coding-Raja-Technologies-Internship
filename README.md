@@ -1,4 +1,4 @@
-# Task 1 - Sentiment Analysis on Social Media Data (Twitter Sentiment Analysis)
+# Task - Sentiment Analysis on Social Media Data (Twitter Sentiment Analysis)
 
 This project dives into the world of social media sentiment, helping you understand and analyze the emotions behind tweets.
 
